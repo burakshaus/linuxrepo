@@ -1,0 +1,23 @@
+# Compiled Binaries (The executables you create)
+viewer
+a.out
+*.exe
+*.out
+*.app
+
+# Object files and Libraries
+*.o
+*.a
+*.so
+*.la
+*.lo
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Logs
+*.log
